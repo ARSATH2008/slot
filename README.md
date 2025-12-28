@@ -1,5 +1,5 @@
 # Ex02 Time Table
-## Date:18.12.2025
+## Date:09.12.2025
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -38,7 +38,7 @@ time.html
      <center> 
      <img src="/logo.png" height="150" width="800">
      </center>
-      <h3 align="center">  SLOT TIME TABLE - STUDENT NAME ( ROLL NO. ) </h3>
+      <h3 align="center">  SLOT TIME TABLE - MOHAMED ARSATH ( 25000358 ) </h3>
         <table align="center" border="5" cellpadding="6" cellspacing="2" bgcolor="cyan">
         <tr>
           <th bgcolor="yellow">Day</th>    
@@ -117,7 +117,8 @@ time.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-12-18 191225.png>)
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/eec2d88f-ac77-48e7-b82e-43a490eeda45" />
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
