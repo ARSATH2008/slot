@@ -117,7 +117,8 @@ time.html
 ```
 
 ## OUTPUT
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/eec2d88f-ac77-48e7-b82e-43a490eeda45" />
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/e8d10893-8339-418e-a0d9-f9e886b1c1d7" />
+
 
 
 ## RESULT
